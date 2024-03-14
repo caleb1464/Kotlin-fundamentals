@@ -14,6 +14,7 @@ open class Duck:Animal(){
     fun sound(){
         println("The Duck is quacking")
     }
+
 }
 class  Fish:Duck(){
     var hasScales = true

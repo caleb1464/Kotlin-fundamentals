@@ -6,6 +6,7 @@ fun main() {
         }
         println(x)
     }
+
     //Continue statement
     for (character in 'd'..'h') {
         if (character == 'e') {

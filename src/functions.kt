@@ -19,6 +19,7 @@ fun main() {
     fun name(){
         println("Caleb")
     }
+
     fun product(num1:Int, num2:Int){
         println(num1 * num2)
     }
