@@ -17,5 +17,3 @@ fun main() {
     }
     println("The day is $result")
 }
-
-
