@@ -4,7 +4,7 @@ fun main() {
     var lastname = "Mwangi"
 
     //String concatenation
-    println(firstname+" "+lastname)
+    println("$firstname $lastname")
     println(firstname.plus(lastname))
 
     //Accessing an element in a string

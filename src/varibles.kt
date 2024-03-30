@@ -4,7 +4,7 @@ fun main() {
     val pi = 3.14
     var lastname = "Chomba"
     var school = "eMobilis"
-    println(firstname+" "+lastname+" "+school)
-    println("My firstname is "+firstname+". I study at "+school)
+    println("$firstname $lastname $school")
+    println("My firstname is $firstname. I study at $school")
 }
 
